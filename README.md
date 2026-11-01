@@ -60,9 +60,19 @@ The backend processes the request and returns matching PG recommendations from t
 
 ## 📸 Screenshots
 
-*Project screenshots will be added here.*
+## 📸 Screenshots
 
-<!-- Add your screenshots here -->
+### 🏠 Home Page
+![PGMate Home Page](screenshots/home.png)
+
+### 🔍 PG Search Results
+![PG Search Results](screenshots/search-results.png)
+
+### 🤖 AI Assistant
+![PGMate AI Assistant](screenshots/ai-assistant.png)
+
+### ⚖️ PG Comparison
+![PG Comparison](screenshots/comparison.png)
 
 ## 📂 Project Structure
 

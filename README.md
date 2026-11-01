@@ -60,8 +60,6 @@ The backend processes the request and returns matching PG recommendations from t
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### 🏠 Home Page
 ![PGMate Home Page](screenshots/home.png)
 

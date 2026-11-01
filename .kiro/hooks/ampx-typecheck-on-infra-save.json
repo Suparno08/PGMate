@@ -1,0 +1,16 @@
+{
+  "version": "v1",
+  "hooks": [
+    {
+      "name": "Validate Amplify Backend",
+      "trigger": "PostFileSave",
+      "description": "Type-check the Amplify backend when amplify TS files are saved",
+      "matcher": "amplify/.*\\.ts$",
+      "action": {
+        "type": "command",
+        "command": "npm.cmd run amp:build",
+        "timeout": 120
+      }
+    }
+  ]
+}

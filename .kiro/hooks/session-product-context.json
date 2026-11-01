@@ -1,0 +1,13 @@
+{
+  "version": "v1",
+  "hooks": [
+    {
+      "name": "PGMate Session Context",
+      "trigger": "SessionStart",
+      "action": {
+        "type": "agent",
+        "prompt": "You are working on PGMate, a serverless AWS student PG-discovery app (React 19 + Vite frontend, Cognito + API Gateway + Lambda + DynamoDB + Bedrock + Amplify). Prefer existing conventions in .kiro/steering. Validate input, use least-privilege IAM, and never commit secrets."
+      }
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+
+{
+  "pgs": [
+    {
+      "id": "agarpara001",
+      "name": "Green Nest PG",
+      "location": "Agarpara",
+      "rent": 6500,
+      "distance": 0.8,
+      "rating": 4.6,
+      "description": "A cozy PG near JIS University with essential student facilities.",
+      "facilities": ["WiFi", "Food", "Laundry"]
+    },
+    {
+      "id": "agarpara002",
+      "name": "Student Stay",
+      "location": "Agarpara",
+      "rent": 5500,
+      "distance": 1.2,
+      "rating": 4.4,
+      "description": "Budget-friendly accommodation with basic amenities.",
+      "facilities": ["WiFi", "Food"]
+    },
+    {
+      "id": "agarpara003",
+      "name": "Campus Residency",
+      "location": "Agarpara",
+      "rent": 7500,
+      "distance": 0.5,
+      "rating": 4.8,
+      "description": "Comfortable accommodation with modern amenities.",
+      "facilities": ["WiFi", "Food", "AC", "Laundry"]
+    },
+    {
+      "id": "sodepur001",
+      "name": "Comfort Homes",
+      "location": "Sodepur",
+      "rent": 9000,
+      "distance": 2.4,
+      "rating": 4.7,
+      "description": "Spacious rooms with useful everyday facilities.",
+      "facilities": ["WiFi", "Food", "AC", "Laundry"]
+    },
+    {
+      "id": "sodepur002",
+      "name": "Metro View PG",
+      "location": "Sodepur",
+      "rent": 8000,
+      "distance": 1.8,
+      "rating": 4.5,
+      "description": "Modern accommodation with convenient transport access.",
+      "facilities": ["WiFi", "Food", "AC"]
+    },
+    {
+      "id": "sodepur003",
+      "name": "Budget Lodge",
+      "location": "Sodepur",
+      "rent": 6000,
+      "distance": 2.0,
+      "rating": 4.2,
+      "description": "Affordable accommodation with basic services.",
+      "facilities": ["WiFi", "Laundry"]
+    },
+    {
+      "id": "belgharia001",
+      "name": "Green Haven",
+      "location": "Belgharia",
+      "rent": 7000,
+      "distance": 1.5,
+      "rating": 4.6,
+      "description": "Peaceful accommodation in a quiet neighborhood.",
+      "facilities": ["WiFi", "Food", "Laundry"]
+    },
+    {
+      "id": "belgharia002",
+      "name": "Urban Nest",
+      "location": "Belgharia",
+      "rent": 8500,
+      "distance": 0.9,
+      "rating": 4.7,
+      "description": "Comfortable accommodation with modern facilities.",
+      "facilities": ["WiFi", "Food", "AC", "Laundry"]
+    },
+    {
+      "id": "belgharia003",
+      "name": "Economy Stays",
+      "location": "Belgharia",
+      "rent": 5200,
+      "distance": 2.2,
+      "rating": 4.3,
+      "description": "Economical option with essential facilities.",
+      "facilities": ["WiFi", "Laundry"]
+    }
+  ],
+  "preferences": {}
+}

@@ -184,6 +184,7 @@ Currently, the application includes sample PG listings from:
 | Suparno Das | Team Member |
 | Supradip Paul | Team Member |
 | Soumyadeep Biswas | Team Member |
+| Madhuri Dasgupta | Team Member |
 
 ## 🎓 Project Information
 

@@ -182,8 +182,8 @@ Currently, the application includes sample PG listings from:
 | Name | Role |
 |---|---|
 | Suparno Das | Team Member |
-| Supradip Paul | Team Member |
 | Soumyadeep Biswas | Team Member |
+| Supradip Paul | Team Member |
 | Madhuri Dasgupta | Team Member |
 
 ## 🎓 Project Information
